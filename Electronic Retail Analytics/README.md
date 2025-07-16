@@ -1,7 +1,7 @@
-# DataSpark: Analytics for Global Electronics Retail 🔍📊
+Analytics for Global Electronics Retail 🔍📊
 
 ## Project Overview 🌍
-**DataSpark** is a data analysis project designed to extract actionable insights for **Global Electronics**, a major consumer electronics retailer. The project leverages **Python**, **SQL**, and **Power BI** to analyze key data points such as customer behavior, sales performance, product profitability, and store operations. The goal is to improve marketing strategies, optimize inventory management, and refine international pricing models through detailed **Exploratory Data Analysis (EDA)**.
+This is a data analysis project designed to extract actionable insights for **Global Electronics**, a major consumer electronics retailer. The project leverages **Python**, **SQL**, and **Power BI** to analyze key data points such as customer behavior, sales performance, product profitability, and store operations. The goal is to improve marketing strategies, optimize inventory management, and refine international pricing models through detailed **Exploratory Data Analysis (EDA)**.
 
 ## Key Skills Developed 💡:
 - **Data Cleaning & Preprocessing** 🧹
