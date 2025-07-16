@@ -54,6 +54,24 @@ Analyzes e-commerce sales and customer behavior for a retail electronics company
 
 ---
 
+# 🏈 Medium Article – How Tech & Analytics Are Evolving the NFL into a Smarter Game  
+📌 From Playbooks to Python: How Data & Technology Are Changing Football
+
+The NFL is no longer just about raw talent and gut instinct — it’s about data, advanced analytics, and cutting-edge technology.
+
+**The Shift:**  
+From smart scouting and player tracking (Next Gen Stats) to AI-driven predictive playcalling, teams like the Philadelphia Eagles are using data to gain game-changing advantages.
+
+**The Edge:**  
+Real-time analytics, injury prevention models, and win probability tools are helping coaches make faster, smarter decisions on the field — blurring the line between coaching and data science.
+
+**The Bigger Picture:**  
+The NFL is quietly becoming one of the most data-driven sports leagues worldwide, and understanding this transformation is key for anyone passionate about sports analytics.
+
+Read the full article here 👉 [How Data & Technology Are Evolving the NFL into a Smarter Game](https://medium.com/@hemanths.korrapati/how-data-technology-are-evolving-the-nfl-into-a-smarter-game-3fde3308ecd2)
+
+
+
 ## 🧰 Skills Overview
 
 - **Data Analytics & Reporting:** Python (Pandas, NumPy), SQL (Joins, CTEs, Window Functions), Excel
