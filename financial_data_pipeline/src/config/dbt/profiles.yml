@@ -1,0 +1,11 @@
+gold_zone_dbt:
+  outputs:
+    dev:
+      host: localhost
+      method: thrift
+      port: 10000
+      schema: gold_zone
+      threads: 1
+      type: spark
+  target: dev  
+
