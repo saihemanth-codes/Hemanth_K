@@ -1,42 +1,91 @@
-# Social_Media_Ad_Campaign
 
-![Screenshot (52)](https://github.com/RigonMetis/Social_Media_Ad_Campaign/assets/101653114/8da394b2-6bb1-4caf-be75-144155be71a2)
+# 🚀 Hemanth Korrapati – Insight-Driven Data Analyst
 
-# About the Dataset:
+Welcome to my GitHub Portfolio — a space where I transform raw data into actionable insights across various industries, including sports, healthcare, e-commerce, and automotive.
 
-Link- https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking
+With experience in SQL, Python, Tableau, and Power BI, I specialize in creating compelling dashboards, writing efficient queries, and delivering data solutions that empower organizations to make smarter, faster decisions.
 
-The data set is retrieved from the Kaggle data set Sales Conversion Optimization by GOKAGGLERS, where it describes the marketing and conversion information of an anonymous organisation’s social media ad campaign.
+If you're here, you're probably curious, data-driven, or both — so feel free to explore some of my featured projects below. 🚀
 
-Overall, the data has 1143 entries and 11 columns. A brief description for each column can be given as follows:
+---
 
-1. ad_id: a unique ID for each ad.
-2. xyzcampaignid: an ID associated with each ad campaign of XYZ company.
-3. fbcampaignid: an ID associated with how Facebook tracks each campaign.
-4. age: age of the person to whom the ad is shown.
-5. gender: gender of the person to whom the add is shown
-6. interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in 
-the person’s Facebook public profile).
-7. Impressions: the number of times the ad was shown.
-8. Clicks: number of clicks on for that ad.
-9. Spent: Amount paid by company xyz to Facebook, to show that ad.
-10. Total conversion: Total number of people who enquired about the product after seeing the ad.
-11. Approved conversion: Total number of people who bought the product after seeing the ad.
+## 🧠 Tech Stack
 
->**Data Cleaning & Analysis** - Microsoft Excel
+**Languages & Tools:**  
+`Python` `SQL` `Tableau` `Power BI` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Excel`  
+**Database & Platforms:**  
+`MySQL` `PostgreSQL` `Snowflake` `AWS S3` `Jupyter Notebook` `Git`  
 
->**Data Visualization** - Microsoft PowerBI
+---
 
-# Methodology:
-After observation, it was found that there were no null or invalid type values present in the data. However, it was easy to notice that some entries (204 entries) were having error as Column “Clicks” had value 0 but Column “Total_Conversion”
-had non-zero values. This is illogical because an ad cannot still gain postive conversions (customers) while no one clicks on it. So, after removing those data, Our dataset consist a total of 939 entries.
+## 🚀 Featured Projects
 
->**Feature Engineering**
+### 🏈 [NFL Analytics Project](https://github.com/saihemanth-codes/Hemanth_K/tree/main/NFL%20Project)  
+📁 Folder: `NFL Project`  
+📌 Tech Stack: Python | Jupyter Notebook | Pandas  
+This project analyzes NFL rushing and player-level statistics to extract performance trends, positional breakdowns, and play efficiency. It’s designed to support coaching and strategy through data-driven decision-making.
 
-Using the features given in the data set, we can also perform feature engineering to generate some KPIs that are important for later analysis:
+---
 
-- **CPM (Cost per Mille)**: It is a metric that represents the cost of displaying an ad to 1,000 people. In other words, it measures how much a business pays for every 1,000 ad impressions.
-- **Cost per click (CPC)**: It is a metric that represents the cost of getting a user to click on an ad. It measures how much a business pays for every click on their ad.
-- **Click-through rate (CTR)**: It is a metric that represents the percentage of users who click on an ad after seeing it. It measures the effectiveness of an ad in getting users to click through to a website or landing page.
-- **CPA (Cost per Acquisition/Action)**: It is a metric that represents the cost of acquiring a new customer through an ad campaign. It measures how much a business pays for every new customer acquired through their ad.
+### 🏥 [U.S. Healthcare Analysis](https://github.com/saihemanth-codes/Hemanth_K/tree/main/Health%20Care%20Analytics)  
+📁 Folder: `Health Care Analytics`  
+📌 Tech Stack: Power BI | SQL | Data Visualization  
+This dashboard highlights hospital performance, patient trends, and payer-provider dynamics across the U.S. healthcare system. It includes predictive insights using DAX and report optimization using Snowflake schemas.
 
+---
+
+### 🚗 [Passenger Vehicle Industry Trends](https://github.com/saihemanth-codes/Hemanth_K/tree/main/Vehicle%20Industry)  
+📁 Folder: `Vehicle Industry`  
+📌 Tech Stack: SQL | Python | Tableau  
+An in-depth look into how electric vehicles (EVs), brand shifts, and regional dynamics are transforming the passenger vehicle industry. Includes dashboarding and forecasting to support market intelligence.
+
+---
+
+### 💾 [MySQL for Data Analytics](https://github.com/saihemanth-codes/Hemanth_K/tree/main/MySQL%20for%20Data%20Analytics)  
+📁 Folder: `MySQL for Data Analytics`  
+📌 Tech Stack: MySQL | SQL Queries | BI Concepts  
+A hands-on SQL project covering advanced querying, schema design, and business logic through a structured case study. This project showcases SQL fluency and real-world BI practices.
+
+---
+
+### 🛍️ [Electronics Retail Analytics](https://github.com/saihemanth-codes/Hemanth_K/tree/main/Electronic%20Retail%20Analytics)  
+📁 Folder: `Electronic Retail Analytics`  
+📌 Tech Stack: Python | SQL | Excel | Tableau  
+Analyzes e-commerce sales and customer behavior for a retail electronics company. The project focuses on identifying revenue drivers, product trends, and customer segmentation opportunities.
+
+---
+
+# 🏈 Medium Article – How Tech & Analytics Are Evolving the NFL into a Smarter Game  
+📌 From Playbooks to Python: How Data & Technology Are Changing Football
+
+The NFL is no longer just about raw talent and gut instinct — it’s about data, advanced analytics, and cutting-edge technology.
+
+**The Shift:**  
+From smart scouting and player tracking (Next Gen Stats) to AI-driven predictive playcalling, teams like the Philadelphia Eagles are using data to gain game-changing advantages.
+
+**The Edge:**  
+Real-time analytics, injury prevention models, and win probability tools are helping coaches make faster, smarter decisions on the field — blurring the line between coaching and data science.
+
+**The Bigger Picture:**  
+The NFL is quietly becoming one of the most data-driven sports leagues worldwide, and understanding this transformation is key for anyone passionate about sports analytics.
+
+Read the full article here 👉 [How Data & Technology Are Evolving the NFL into a Smarter Game](https://medium.com/@hemanths.korrapati/how-data-technology-are-evolving-the-nfl-into-a-smarter-game-3fde3308ecd2)
+
+
+
+## 🧰 Skills Overview
+
+- **Data Analytics & Reporting:** Python (Pandas, NumPy), SQL (Joins, CTEs, Window Functions), Excel
+- **Visualization Tools:** Tableau, Power BI (DAX, M Language), Jupyter, Matplotlib
+- **Database & ETL:** MySQL, Snowflake, PostgreSQL, Data Cleaning, Data Warehousing
+- **Project Experience:** Sports analytics, Healthcare KPIs, Retail business insights, Vehicle market analysis
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: hemanths.korrapati@gmail.com  
+🌐 GitHub: [saihemanth-codes](https://github.com/saihemanth-codes)  
+
+Whether you're into analytics, sports, startups, or just want to chat about data-driven decision making — feel free to reach out! 🚀
+>>>>>>> b4fd2516d310101e1ad32bb6bac9507914917153

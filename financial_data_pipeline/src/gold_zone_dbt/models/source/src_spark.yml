@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: silver_zone
+    schema: SILVER_ZONE
+    tables:
+      - name: accounts
+      - name: cards
+      - name: clients
+      - name: disps
+      - name: districts
+      - name: loans
+      - name: orders
+      - name: tkeys
+      - name: transactions
